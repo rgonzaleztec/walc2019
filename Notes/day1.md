@@ -1,12 +1,11 @@
+_Python Notebook Intro Python_
+
+https://colab.research.google.com/drive/1TW_GtarLibEIf89RkjrODgPyyhPkZOoy
+___
 
 https://www.hackster.io/contests/SecureEverything
 
 https://github.com/
-
-
-_Python Notebook Intro Python_
-
-https://colab.research.google.com/drive/1TW_GtarLibEIf89RkjrODgPyyhPkZOoy
 
 https://github.com/openalpr/openalpr
 
